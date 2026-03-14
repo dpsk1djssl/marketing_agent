@@ -48,14 +48,3 @@ echo GOOGLE_API_KEY="(Google API KEY)" > .streamlit\secrets.toml
 uv run streamlit run streamlit_app.py
 ```
 
-<br>
-
-## uv 설치 방법
-
-https://docs.astral.sh/uv/getting-started/installation/ (공식 사이트. OS에 맞게 설치하면 됩니다.)
-
-<br>
-
-## Google AI Studio API KEY 생성 방법
-
-https://aistudio.google.com/apikey 접속 후 (Google 로그인 필요) Get API KEY 메뉴에서 생성하면 됩니다.
